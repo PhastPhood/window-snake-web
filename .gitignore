@@ -1,0 +1,11 @@
+**/npm-debug.log
+**/.DS_Store
+
+/public/build
+/node_modules
+
+*.zip
+*.crx
+*.pem
+
+yarn-error.log
